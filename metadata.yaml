@@ -1,0 +1,42 @@
+_repo: Wild-Animals-I-Have-Known_3031
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thompson, Ernest
+    - Seton-Thomson, Ernest
+    - Thompson-Seton, Ernest
+    - Seton, Wolf
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: '"This collection of eight engrossing stories by a noted Canadian naturalist,
+  illustrator, and painter initially appeared to critical and popular acclaim 1898.
+  More than a century later, Seton?s masterful blend of scientific observation and
+  romanticism continues to delight readers. Memorable characters include Old Lobo,
+  the leader of a wolfpack; Silverspot, a wise old crow; Raggylug, a young cottontail;
+  Bingo, an errant hound; and four other remarkable creatures. 200 engaging b/w illus.
+  by the author" -- publisher description (February 2007).'
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+- !lcsh 'Animals -- Biography'
+- GITenberg
+tableOfContents: Lobo, the King of Currumpaw -- Silverspot, the Story of a Crow --
+  Raggylug, the Story of a Cottontail Rabbit -- Bingo, the Story of My Dog -- The
+  Springfield Fox -- The Pacing Mustang -- Wully, the Story of a Yaller Dog -- Redruff,
+  the Story of the Don Valley Partridge
+title: Wild Animals I Have Known
+url: http://www.gutenberg.org/ebooks/3031
