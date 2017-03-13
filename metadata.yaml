@@ -1,5 +1,8 @@
 _repo: Wild-Animals-I-Have-Known_3031
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seton, Ernest Thompson
@@ -20,6 +23,8 @@ description: '"This collection of eight engrossing stories by a noted Canadian n
   the leader of a wolfpack; Silverspot, a wise old crow; Raggylug, a young cottontail;
   Bingo, an errant hound; and four other remarkable creatures. 200 engaging b/w illus.
   by the author" -- publisher description (February 2007).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3031#Wild-Animals-I-Have-Known
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
